@@ -1,0 +1,22 @@
+{
+  "name": "hamburger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Hamburger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shpindler/hamburger.git"
+  },
+  "keywords": [
+    "hamburger"
+  ],
+  "author": "Alexander Shpindler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shpindler/hamburger/issues"
+  },
+  "homepage": "https://github.com/shpindler/hamburger#readme"
+}
